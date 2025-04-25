@@ -83,7 +83,7 @@ Role permissions can be customized based on the requirements of the organization
 
 1. **Clone the Repository**
    ```
-   git clone https://github.com/vishwaVaghasiya16/jewellery-server.git
+   git clone https://github.com/Vishwavaghasiya/brilliant-earth-server.git
    ```
 
 2. **Install Dependencies**
